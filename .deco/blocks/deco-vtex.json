@@ -1,0 +1,24 @@
+{
+  "__resolveType": "site/apps/deco/vtex.ts",
+  "defaultSegment": {
+    "channelPrivacy": "public",
+    "currencyCode": "BRL",
+    "currencySymbol": "R$",
+    "countryCode": "BRA",
+    "cultureInfo": "pt-BR",
+    "channel": "1"
+  },
+  "platform": "vtex",
+  "account": "t62533",
+  "publicUrl": "www.novalar.com.br",
+  "appKey": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "21ccaab951c4a330cfb16d5ec28c168ae121954cd4f418693eb1839934dde61a"
+  },
+  "appToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "79931ca102fe9fdc544a521af1901566ab96676cbf9e9d457d1daa0f0b58372473c0c25afa59f7e09c7c8d838b37f793e62bb805c09b9dba64e3fded02cc09da96a67217e07e0d9ba1fef2cd9de8d1b09744e798bbdee8c7136f7179b188c950be11ba2d50d81864af594f64d310385935c71331e8e5f7487d4431d94fa90dc47474f37ef6dcf9ba6b004a6a7e1c200f"
+  },
+  "usePortalSitemap": false,
+  "salesChannel": "NOVALAR"
+}
